@@ -15,3 +15,4 @@ The idea of the application is pretty simple - we make a call to an API, which t
 - [Figma Design](https://www.figma.com/file/lNHEpsFEPoFVfsCDUf8nKA/WTWR-(Apiary)?node-id=163%3A194)
 - [Project Description](https://github.com/practicum-student/wtwr-app/blob/main/Project%20Description.md)
 - [Technical Tasks](https://github.com/practicum-student/wtwr-app/blob/main/Tasks.md)
+- [Deployed Web App](https://wtwr-app.up.railway.app/)
